@@ -7,6 +7,7 @@ public class Problem03 {
     Scanner in = new Scanner(System.in);
     int age = in.nextInt();
     eligible(age);
+    in.close();
   }
 
   static void eligible(int age) {
