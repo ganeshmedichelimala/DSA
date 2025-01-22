@@ -16,5 +16,6 @@ public class NHashingUsingHashMap {
     for (Integer key : keys) {
       System.out.println(key + " -> " + map.get(key));
     }
+    in.close();
   }
 }
