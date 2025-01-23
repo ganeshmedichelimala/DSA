@@ -33,3 +33,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 1512 : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
+
+# Problem 07 : How Many Numbers Are Smaller Than the Current Number
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1365 : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
