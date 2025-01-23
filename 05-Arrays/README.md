@@ -39,3 +39,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 1365 : How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/)
+
+# Problem 08 : Create Target Array in the Given Order
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1389 : Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
