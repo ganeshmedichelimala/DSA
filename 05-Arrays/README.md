@@ -27,3 +27,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 1431 : Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
+
+# Problem 06 : Number of Good Pairs
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1512 : Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
