@@ -21,3 +21,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 1470: Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
+
+# Problem 05 : Kids With the Greatest Number of Candies
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1431 : Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/)
