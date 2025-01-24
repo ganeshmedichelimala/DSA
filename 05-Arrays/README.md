@@ -63,3 +63,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 1732 :Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
+
+# Problem 12 : Flipping an Image
+
+## LeetCode Problem Link
+
+[Leetcode Problem 832 :Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
