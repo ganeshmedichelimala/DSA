@@ -50,4 +50,10 @@
 
 ## LeetCode Problem Link
 
-[Leetcode Problem 1773 : Count Items Matching a Rule](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
+[Leetcode Problem 1832 : Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
+
+# Problem 10 : Count Items Matching a Rule
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1773 : Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
