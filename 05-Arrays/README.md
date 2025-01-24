@@ -57,3 +57,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 1773 : Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
+
+# Problem 11 : Find the Highest Altitude
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1732 :Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
