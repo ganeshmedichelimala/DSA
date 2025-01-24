@@ -45,3 +45,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 1389 : Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
+
+# Problem 09 : Count Items Matching a Rule
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1773 : Count Items Matching a Rule](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
