@@ -69,3 +69,9 @@
 ## LeetCode Problem Link
 
 [Leetcode Problem 832 :Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
+
+# Problem 13 : Find Numbers with Even Number of Digits
+
+## LeetCode Problem Link
+
+[Leetcode Problem 1295 :Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
